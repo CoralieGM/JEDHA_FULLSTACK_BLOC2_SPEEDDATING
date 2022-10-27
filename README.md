@@ -21,11 +21,8 @@ Understand what makes people interested into each other to go on a second date
 ## Details for certification purpose
 
 * email adress: cora.michel@gmail.com
-* video link: 
+* video link: https://share.vidyard.com/watch/wWy8vU4rs3hii8hLpXFpcJ?
 
 ## Authors
 
 **Coralie GUILLOTTE* - [CoralieGM](https://github.com/CoralieGM)
-
-## Acknowledgements
-Thanks to all the Jedha's alumni and others who inspired me !
